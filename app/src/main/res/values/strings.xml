@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="user_name">Salman Hadli</string>
+    <string name="user_role">Android Developer Extraordinaire</string>
+    <string name="user_contact">+91 733 813 4252</string>
+    <string name="user_share">"@AndroidDev"</string>
+    <string name="user_email">skh174211@gmail.com</string>
+</resources>
